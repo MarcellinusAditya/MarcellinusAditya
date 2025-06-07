@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **Golang backend microservices**
 
-- 👨‍💻 All of my projects are available at [marcellinusaditya.vitroweb.my.id](marcellinusaditya.vitroweb.my.id)
+- 👨‍💻 All of my projects are available at https://marcellinusaditya.vitroweb.my.id
 
 - 📫 How to reach me **marcellinusaditya.official@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/marcellinus-aditya](www.linkedin.com/in/marcellinus-aditya)
+- 📄 Know about my experiences www.linkedin.com/in/marcellinus-aditya
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
